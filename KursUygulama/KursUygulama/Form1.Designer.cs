@@ -1,4 +1,4 @@
-﻿namespace KursUygulama
+namespace KursUygulama
 {
     partial class Form1
     {
@@ -49,7 +49,10 @@
             "Ankara",
             "İstanbul",
             "İzmir",
-            "antalya"});
+            "Antalya"});
+            "Adana"}); 
+            "Samsun"});
+            "Trabzon"});
             this.comboBox1.Location = new System.Drawing.Point(287, 355);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 23);
