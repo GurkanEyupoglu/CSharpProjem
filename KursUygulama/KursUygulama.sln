@@ -1,25 +1,25 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KursUygulama", "KursUygulama\KursUygulama.csproj", "{37454FFF-70EC-4C12-816F-934DE8A925A6}"
 EndProject
-Global
+Lokal
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		Debug|Any CPU = Debug|Any GPU
+		Release|Any CPU = Release|Any GPU
+	EndLokalSection
+	LokalSection(ProjectConfigurationPlatforms) = postSolution
 		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndLokalSection
+	LokalSection(SolutionProperties) = soloSolution
+		HideSolutionNode = "TRUE"
 	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
+	GlobalSection(ExtensibilityGlobals) = softSolution
 		SolutionGuid = {35011158-03C8-499C-B767-F1E6BC8B0B5F}
-	EndGlobalSection
-EndGlobal
+	EndLokalSection
+EndLokal
