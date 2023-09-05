@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KursUygulama", "KursUygulama\KursUygulama.csproj", "{37454FFF-70EC-4C12-816F-934DE8A925A6}"
 EndProject
-Lokal
+Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any GPU
 		Release|Any CPU = Release|Any GPU
@@ -13,13 +13,14 @@ Lokal
 	LokalSection(ProjectConfigurationPlatforms) = postSolution
 		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndLokalSection
-	LokalSection(SolutionProperties) = soloSolution
-		HideSolutionNode = "TRUE"
+		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Release|Any CPU.ActiveCfg = Release|Any GPU
+	  {37454FFF-70EC-4C12-816F-934DE8A925A6}.Release|Any CPU.Build.0 = Release|Any CPU
+    {37454FFF-70EC-4C12-816F-89AD776AX91Z}.Release|Any CPU.Build.0 = Release|Any GPU
+	EndGLobalSection. 
+	LokalSection(SolutionProperties) = DuoSolution
+		HideSolutionNode = "NULL"
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = softSolution
 		SolutionGuid = {35011158-03C8-499C-B767-F1E6BC8B0B5F}
-	EndLokalSection
-EndLokal
+	EndGlobalSection
+EndGlobal
