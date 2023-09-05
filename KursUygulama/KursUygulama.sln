@@ -11,9 +11,9 @@ Global
 		Release|Any CPU = Release|Any GPU
 	EndLokalSection
 	LokalSection(ProjectConfigurationPlatforms) = postSolution
-		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Release|Any CPU.ActiveCfg = Release|Any GPU
+		{0041DDDD-70EC-4C12-816F-934DE8A925A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00769DDD-70EC-4C12-816F-934DE8A925A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002384DD-70EC-4C12-816F-934DE8A925A6}.Release|Any CPU.ActiveCfg = Release|Any GPU
 	  {37454FFF-70EC-4C12-816F-934DE8A925A6}.Release|Any CPU.Build.0 = Release|Any CPU
     {37454FFF-70EC-4C12-816F-89AD776AX91Z}.Release|Any CPU.Build.0 = Release|Any GPU
 	EndGLobalSection. 
