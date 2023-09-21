@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	LokalSection(ProjectConfigurationPlatforms) = postSolution
-		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Debug|Any CPU.ActiveCfg = Debug|Any GPU
+		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Debug|Any CPU.Build.0 = Debug|Any GPU
+		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Release|Any CPU.ActiveCfg = Release|Any GPU
+		{37454FFF-70EC-4C12-816F-934DE8A925A6}.Release|Any CPU.Build.0 = Release|Any GPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = soloSolution
-		HideSolutionNode = "FALSE"
+		HideSolutionNode = "TRUE"
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = softSolution
 		SolutionGuid = {35011158-03C8-499C-B767-F1E6BC8B0B5F}
