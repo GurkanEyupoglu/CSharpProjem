@@ -194,15 +194,17 @@ namespace KursUygulama
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.ViewList1);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.ResumeLayout(false);
+            this.ResumeLayout(true);
             this.PerformLayout();
 
         }
 
         #endregion
-
+        private ViewList ViewList1;
+        private ViewList ViewList2;
         private ComboBox comboBox1;
         private CheckBox checkBox1;
         private ListBox listBox1;
