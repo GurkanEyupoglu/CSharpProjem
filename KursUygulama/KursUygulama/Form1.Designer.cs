@@ -58,7 +58,8 @@ namespace KursUygulama
             // 
             // checkBox1
             // 
-            this.checkBox1.AutoSize = true;
+            this.checkBox1. System.in[1]<ListBox>;
+
             this.checkBox1.Location = new System.Drawing.Point(162, 357);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(69, 19);
@@ -109,7 +110,7 @@ namespace KursUygulama
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 5;
             this.button2.Text = "Kırmızı";
-            this.button2.UseVisualStyleBackColor = true;
+            this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
@@ -124,7 +125,7 @@ namespace KursUygulama
             // 
             // listBox3
             // 
-            this.listBox3.FormattingEnabled = true;
+            this.listBox3.FormattingEnabled = false;
             this.listBox3.ItemHeight = 15;
             this.listBox3.Items.AddRange(new object[] {
             "Ankara",
